@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Challenger</string>
+
+    <string name="formatted_text">Küzdj meg a kihívásaiddal velünk\n\nés\n\nérd el a céljaidat!</string>
+
+
+
+
+    <!-- RecycleView- hoz a dolgok ha nem felhps adatbázisba csinálom-->
+
+    <string-array name="challenge_names">
+        <item>Számvitel Vizsa</item>
+        <item>100_pushup_100day</item>
+        <item>Angol Nyelvizsga</item>
+        <item>Heti 10km futás</item>
+        <item>Erősek próbája</item>
+    </string-array>
+
+    <string-array name="challenge_start_date">
+        <item>2024.06.25.</item>
+        <item>2024.07.09.</item>
+        <item>2024.07.01.</item>
+        <item>2024.05.28.</item>
+        <item>2024.10.18.</item>
+    </string-array>
+
+    <string-array name="challenge_end_date">
+        <item>2024.07.03.</item>
+        <item>2024.07.14.</item>
+        <item>2024.07.07.</item>
+        <item>2024.06.04.</item>
+        <item>2024.10.25.</item>
+    </string-array>
+
+    <string-array name="challenge_category">
+        <item>Tanulás</item>
+        <item>Sport</item>
+        <item>Tanulás</item>
+        <item>Sport</item>
+        <item>Vegyes</item>
+    </string-array>
+
+
+    <array name="challenge_images">
+        <item>@drawable/study_icon</item>
+        <item>@drawable/sport_icon</item>
+        <item>@drawable/study_icon</item>
+        <item>@drawable/sport_icon</item>
+        <item>@drawable/learn_sport_icon</item>
+    </array>
+
+    <array name="challenge_megszerezheto_pont">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>350</item>
+        <item>500</item>
+    </array>
+
+    <array name="challenge_description_text">
+        <item>Kezdés időpontja: A felhasználó által meghatározott dátum.
+            Vége: A kezdéstől számított egy hét múlva.
+            Jelentkezés: Bármikor lehetséges a kihívás kezdete előtt.
+            Kihívás menete: A résztvevőknek naponta dokumentálniuk kell tanulmányi előrehaladásukat, amelyet a kihívás végén egy összefoglaló beszámolóban kell prezentálniuk.
+            Bizonyítékok: Naplóbejegyzések, rövid videók, vagy hangfelvételek, amelyek bemutatják a napi tanulási rutint és az elérte eredményeket.
+            Elfogadó személy: A kihívást létrehozó tanár vagy csoportvezető, aki pontszámot is adhat a teljesítményért.
+            Cél: A kihívás célja, hogy maximalizálja a vizsgafelkészülés hatékonyságát és csökkentse a procrastinációt (halogatást).</item>
+        <item>Kezdés időpontja: A felhasználó által meghatározott dátum.
+            Vége: A kezdéstől számított 100 nap múlva.
+            Jelentkezés: Bármikor lehetséges a kihívás kezdete előtt.
+            Kihívás menete: A résztvevőknek minden nap fel kell venniük egy videót, ahogy elvégzik a fekvőtámaszokat, és ezt feltölteni az alkalmazásba.
+            Bizonyítékok: Napi videók, amelyek igazolják a fekvőtámaszok elvégzését.
+            Elfogadó személy: Edző vagy a csoport tagjai, akik értékelik az erőfeszítéseket.
+            Cél: Az erőnlét növelése és a fizikai kihívásokkal szembeni kitartás fejlesztése.</item>
+        <item>Kezdés időpontja: A felhasználó által meghatározott dátum.
+            Vége: A kezdéstől számított egy hónap múlva.
+            Jelentkezés: Bármikor lehetséges a kihívás kezdete előtt.
+            Kihívás menete: A résztvevőknek dokumentálniuk kell a nyelvtanulási folyamatot, beleértve a különböző gyakorlatokat, és a hétvégi összefoglalók bemutatását.
+            Bizonyítékok: Szöveges naplók, hangfelvételek vagy videók, amelyek bemutatják a nyelvtudás fejlődését.
+            Elfogadó személy: Nyelvtanár vagy nyelviskolai csoport vezetője, aki visszajelzést ad a haladásról.
+            Cél: A nyelvi készségek fejlesztése és a sikeres nyelvvizsga letétele.</item>
+        <item> Kezdés időpontja: A felhasználó által meghatározott dátum.
+            Vége: Folyamatos, heti újraértékeléssel.
+            Jelentkezés: Bármikor lehetséges a kihívás kezdete előtt.
+            Kihívás menete: A résztvevőknek minden héten dokumentálniuk kell a futásokat, a megtett távolságot és az időt.
+            Bizonyítékok: GPS adatok, futóapplikációk eredményei vagy videók.
+            Elfogadó személy: Futóklub vezetője vagy személyi edző.
+            Cél: A fizikai kondíció javítása és a rendszeres testmozgás előmozdítása.</item>
+        <item>Kezdés időpontja: A felhasználó által meghatározott dátum.
+            Vége: A kezdéstől számított egy hónap múlva.
+            Jelentkezés: Bármikor lehetséges a kihívás kezdete előtt.
+            Kihívás menete: A résztvevőknek különböző nehézségű feladatokat kell teljesíteniük, melyeket videón rögzítenek és értékelnek.
+            Bizonyítékok: Videók a teljesített feladatokról.
+            Elfogadó személy: A kihívást létrehozó edző vagy csoportvezető, aki értékeli a teljesítményt.
+            Cél: A testi és szellemi állóképesség növelése, valamint a kihívásokkal szembeni ellenálló képesség fejlesztése.</item>
+    </array>
+
+
+
+
+
+</resources>
